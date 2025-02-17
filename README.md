@@ -28,21 +28,26 @@ Prepare a slide presentation explaining your understanding of the QA role in sof
    - What is the role of QA in the software development lifecycle (SDLC)?
    - How does QA contribute to improving software quality and overall user experience? Does QA an essential part of an organization?
 
+
 2.	QA Testing Processes & Methodologies:
    - Understanding the QA Testing Life Cycle.
    - Best practices for writing test cases and test plans, difference between manual testing and automated testing—when to use each.
    - Provide types of testing.
+
 
 3.	Automation Testing:
    - What is automation testing, and why is it important?
    - How to design and maintain automated test scripts for regression testing and enhancement testing?
    - Describe role of automation in CI/CD pipelines.
 
+
 4.	Performance Testing:
    - What is performance testing, and is it essential for a system/application?
    - List types of performance testing – purpose and use case.
-   *Example use case: Stress Testing – Access real-time offshore drilling monitoring dashboard simultaneously, causing sudden high traffic.*
+  
+       *Example use case: Stress Testing – Access real-time offshore drilling monitoring dashboard simultaneously, causing sudden high traffic.*
    - What are the key metrics in performance test? How to analyse performance test results and improve system performance?
+
 
 5.	QA’s Role in Agile & DevOps:
    - How QA integrates into Agile and DevOps workflows?
